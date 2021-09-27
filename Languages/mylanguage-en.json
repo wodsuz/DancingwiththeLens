@@ -1,0 +1,111 @@
+data_en = ["Home",
+    "About Me",
+    "Portfolio",
+    "Contact",
+    "Scroll down or swipe up.",
+    "Hi, I'm Kasia! Photography is one of my greatest passions! I am slowly expanding my portfolio and here I am sharing my best works with you. Models wanted!",
+    "Portraits",
+    "Nature and Flora", // 7
+    "Your Name", // 8
+    "Kindly enter your name",
+    "Email-Adress",
+    "Kindly enter your email adress",
+    "Message",
+    "Kindly enter your message",
+    "Submit",
+    "Portfolio Instagram",
+    "Personal Instagram",
+    "Primary E-Mail",
+    "Made with",
+    "Copytight by Kasia and Ongun 2021 © "
+]
+
+
+data_pl = ["Dom",
+    "O mnie",
+    "Teczka",
+    "Kontakt",
+    "Przewiń w dół lub przesuń w górę.",
+    "Cześć, jestem Kasia! Fotografia to jedna z moich największych pasji! Powoli poszerzam swoje portfolio i tutaj dzielę się z Wami moimi najlepszymi pracami. Poszukiwane modelki!",
+    "Portrety",
+    "Natura i flora", // 7
+    "Twoje imię", // 8
+    "Uprzejmie wpisz swoje imię",
+    "Adres mailowy",
+    "Uprzejmie wpisz swój adres e-mail",
+    "Wiadomość",
+    "Prosimy o wpisanie wiadomości",
+    "Składać",
+    "Instagram portfelowy",
+    "Osobisty Instagram",
+    "Główny email",
+    "Wykonany z",
+    "Copytight by Kasia i Ongun 2021 ©"
+]
+
+data_de = ["Zuhause",
+    "Über mich",
+    "Portfolio",
+    "Kontakt",
+    "Scrollen Sie nach unten oder wischen Sie nach oben.",
+    "Hi, ich bin Kasia! Fotografie ist eine meiner größten Leidenschaften! Ich erweitere langsam mein Portfolio und teile hier meine besten Arbeiten mit euch. Models gesucht!",
+    "Porträts",
+    "Natur und Flora", // 7
+    "Dein Name", // 8
+    "Bitte geben Sie Ihren Namen ein",
+    "E-Mail-Adresse",
+    "Bitte geben Sie Ihre E-Mail-Adresse ein",
+    "Nachricht",
+    "Bitte geben Sie Ihre Nachricht ein",
+    "Einreichen",
+    "Portfolio-Instagram",
+    "Persönliches Instagram",
+    "Erste Email",
+    "Gemacht mit",
+    "Copytight von Kasia und Ongun 2021 © "
+]
+
+data_it = ["Casa",
+    "A proposito di me",
+    "Portafoglio",
+    "Contatto",
+    "Scorri verso il basso o scorri verso l'alto.",
+    "Ciao, sono Kasia! La fotografia è una delle mie più grandi passioni! Sto lentamente espandendo il mio portfolio ed eccomi qui a condividere con voi i miei lavori migliori. Cercasi modelli!",
+    "Ritratti",
+    "Natura e flora", // 7
+    "Il tuo nome", // 8
+    "Per favore, inserisci il tuo nome",
+    "Indirizzo email",
+    "Inserisci il tuo indirizzo email",
+    "Messaggio",
+    "Inserisci il tuo messaggio",
+    "Invia",
+    "Portafoglio Instagram",
+    "Instagram personale",
+    "E-mail primario",
+    "Fatto con",
+    "Copytight di Kasia e Ongun 2021 © "
+]
+
+data_tr = ["Ana-Sayfa",
+    "Hakkımda",
+    "Portföy",
+    "İletişim",
+    "Aşağı veya yukarı kaydırın.",
+    "Merhaba, ben Kasia! Fotoğrafçılık en büyük tutkularımdan biri! Portföyümü yavaş yavaş genişletiyorum ve burada en iyi çalışmalarımı sizlerle paylaşıyorum. Model aranıyor!",
+    "Portreler",
+    "Doğa ve Flora", // 7
+    "Adın", // 8
+    "Lütfen adınızı girin",
+    "E-posta adresi",
+    "Lütfen e-posta adresinizi girin",
+    "İleti",
+    "Lütfen mesajınızı girin",
+    "Gönder",
+    "Portföy Instagram",
+    "Kişisel Instagram",
+    "Öncelikli E-posta",
+    "İle yapılan",
+    "Copytight by Kasia ve Ongun 2021 © "
+]
+
